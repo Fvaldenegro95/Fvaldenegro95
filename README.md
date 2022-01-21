@@ -75,6 +75,4 @@
 
 # Contact Me
 
-TEST
-
 [LinkedIn](https://www.linkedin.com/in/felipe-valdenegro95/)
