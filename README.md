@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with ***Redux and MySQL!***
 - ⚡ Fun fact: ***I'm a proud father!*** *and I'm a huge music junkie.*
 
-<h2>My Tools...</h2>
+<h2>My Tools</h2>
 
 ### Front-End Development:
 <p>
@@ -73,4 +73,8 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel badge"/>
 </p>
 
+# Contact Me
 
+TEST
+
+[LinkedIn](https://www.linkedin.com/in/felipe-valdenegro95/)
